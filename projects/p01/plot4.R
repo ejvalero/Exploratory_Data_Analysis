@@ -5,7 +5,7 @@ if(!exists("hcp_data")){
 }
 fullDate <- strptime(paste(Date, Time), "%Y-%m-%d %H:%M:%S")
 
-png("plot4.png", width = 480, height = 480, units = "px")
+png("plot4.png", width = 480, height = 480, units = "px", bg = NA)
 par(mfrow = c(2,2))
 
 ## Global_reactive_power

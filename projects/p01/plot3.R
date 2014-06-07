@@ -5,7 +5,7 @@ if(!exists("hcp_data")){
 }
 fullDate <- strptime(paste(Date, Time), "%Y-%m-%d %H:%M:%S")
 
-png("plot3.png", width = 480, height = 480, units = "px")
+png("plot3.png", width = 480, height = 480, units = "px", bg = NA)
 plot(fullDate, Sub_metering_1, type = "l",
      xlab = NA, ylab = "Energy sub metering")
 lines(fullDate, Sub_metering_2, col = "red")
