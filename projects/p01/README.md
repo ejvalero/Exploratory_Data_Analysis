@@ -32,10 +32,10 @@ Repository Info
 ------------------
 
 The repository containts following files:
-  - README.md: descriptive readme file.
+  - _README.md_: descriptive readme file.
   - hcp_feb_07_0102.txt: Data file corresponding to 2007/02/01-2007/02/02 subset from "Individual household electric power consumption Data Set"
   - **`plot1.R`**; **`plot2.R`**; **`plot3.R`**; **`plot4.R`**: R codes that process "hcp_feb_07_0102.txt" file in order to generate the respective output plots.
-  - **plot1.png; plot2.png; plot3.png; plot4.png**: output plots grenerated by **`plot1.R`**; **`plot2.R`; **`plot3.R`** and **`plot4.R`**, from hcp_feb_07_0102.txt subset, which are shown below
+  - **plot1.png; plot2.png; plot3.png; plot4.png**: output plots grenerated by **`plot1.R`**; **`plot2.R`**; **`plot3.R`** and **`plot4.R`**, from hcp_feb_07_0102.txt subset, which are shown below
 
     - Plot 1
     
