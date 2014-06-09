@@ -1,7 +1,3 @@
-## Introduction
-
-This is the repository of first assignment of "Exploratory Data Analysis" on Coursera
-
 Data info:
 --------------
 * **Source**: data used for this work obtained from
