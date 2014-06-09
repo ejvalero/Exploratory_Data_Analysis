@@ -36,21 +36,20 @@ The repository containts following files:
   - hcp_feb_07_0102.txt: Data file corresponding to 2007/02/01-2007/02/02 subset from "Individual household electric power consumption Data Set"
   - **`plot1.R`**; **`plot2.R`**; **`plot3.R`**; **`plot4.R`**: R codes that process "hcp_feb_07_0102.txt" file in order to generate the respective output plots.
   - **plot1.png; plot2.png; plot3.png; plot4.png**: output plots grenerated by **`plot1.R`**; **`plot2.R`; **`plot3.R`** and **`plot4.R`**, from hcp_feb_07_0102.txt subset, which are shown below
+
     - Plot 1
-      ![Histogram of Global Active Power](plot1.png) 
+    
+      ![Global Active Power for 2007/02/01-2007/02/02 subset](plot1.png) 
 
+    - Plot 2
+    
+      ![Global active power for 2007/02/01-2007/02/02 subset](plot2.png) 
 
-### Plot 2
+    - Plot 3
+    
+      ![Energy sub master for 2007/02/01-2007/02/02 subset](plot3.png) 
 
-![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
-
-
-### Plot 3
-
-![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
-
-
-### Plot 4
-
-![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
+    - Plot 4
+    
+      ![Global active power, Voltage, Energy sub mastering and Global active power for 2007/02/01-2007/02/02 subset](plot4.png)
 
